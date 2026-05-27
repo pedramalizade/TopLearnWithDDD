@@ -128,7 +128,6 @@ TopLearn
 │── Domain
 │── Application
 │── Infrastructure
-│── Persistence
 │── API
 ```
 
