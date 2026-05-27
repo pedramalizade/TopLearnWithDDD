@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/Shared/">
+    <Project Path="TopLearnWithDDD.Shared.Abstraction/TopLearnWithDDD.Shared.Abstraction.csproj" />
+  </Folder>
+  <Project Path="TopLearnWithDDD.Domain/TopLearnWithDDD.Domain.csproj" />
+</Solution>

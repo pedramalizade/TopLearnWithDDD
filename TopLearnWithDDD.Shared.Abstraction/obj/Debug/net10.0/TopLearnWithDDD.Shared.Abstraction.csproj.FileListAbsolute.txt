@@ -1,0 +1,11 @@
+D:\TopLearn\TopLearnWithDDD\TopLearnWithDDD.Shared.Abstraction\bin\Debug\net10.0\TopLearnWithDDD.Shared.Abstraction.deps.json
+D:\TopLearn\TopLearnWithDDD\TopLearnWithDDD.Shared.Abstraction\bin\Debug\net10.0\TopLearnWithDDD.Shared.Abstraction.dll
+D:\TopLearn\TopLearnWithDDD\TopLearnWithDDD.Shared.Abstraction\bin\Debug\net10.0\TopLearnWithDDD.Shared.Abstraction.pdb
+D:\TopLearn\TopLearnWithDDD\TopLearnWithDDD.Shared.Abstraction\obj\Debug\net10.0\TopLearnWithDDD.Shared.Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\TopLearn\TopLearnWithDDD\TopLearnWithDDD.Shared.Abstraction\obj\Debug\net10.0\TopLearnWithDDD.Shared.Abstraction.AssemblyInfoInputs.cache
+D:\TopLearn\TopLearnWithDDD\TopLearnWithDDD.Shared.Abstraction\obj\Debug\net10.0\TopLearnWithDDD.Shared.Abstraction.AssemblyInfo.cs
+D:\TopLearn\TopLearnWithDDD\TopLearnWithDDD.Shared.Abstraction\obj\Debug\net10.0\TopLearnWithDDD.Shared.Abstraction.csproj.CoreCompileInputs.cache
+D:\TopLearn\TopLearnWithDDD\TopLearnWithDDD.Shared.Abstraction\obj\Debug\net10.0\TopLearnWithDDD.Shared.Abstraction.dll
+D:\TopLearn\TopLearnWithDDD\TopLearnWithDDD.Shared.Abstraction\obj\Debug\net10.0\refint\TopLearnWithDDD.Shared.Abstraction.dll
+D:\TopLearn\TopLearnWithDDD\TopLearnWithDDD.Shared.Abstraction\obj\Debug\net10.0\TopLearnWithDDD.Shared.Abstraction.pdb
+D:\TopLearn\TopLearnWithDDD\TopLearnWithDDD.Shared.Abstraction\obj\Debug\net10.0\ref\TopLearnWithDDD.Shared.Abstraction.dll
