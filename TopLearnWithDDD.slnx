@@ -2,5 +2,6 @@
   <Folder Name="/Shared/">
     <Project Path="TopLearnWithDDD.Shared.Abstraction/TopLearnWithDDD.Shared.Abstraction.csproj" />
   </Folder>
+  <Project Path="TopLearnWithDDD.Application/TopLearnWithDDD.Application.csproj" Id="dc630075-0b61-48c8-b061-4659b8ebf514" />
   <Project Path="TopLearnWithDDD.Domain/TopLearnWithDDD.Domain.csproj" />
 </Solution>
