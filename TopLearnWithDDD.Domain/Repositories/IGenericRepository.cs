@@ -4,6 +4,7 @@ namespace TopLearnWithDDD.Domain.Repositories
 {
     public interface IGenericRepository<T> where T : class
     {
+        Task<IReadOnlyList<T>> GetAllAsync();
         Task<T> GetAsync(BaseId Id);
         Task AddAsync(T entity);
         Task UpdateAsync(T entity);
