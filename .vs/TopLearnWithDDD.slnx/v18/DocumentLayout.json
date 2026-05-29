@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "D:\\TopLearn\\TopLearnWithDDD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DC630075-0B61-48C8-B061-4659B8EBF514}|TopLearnWithDDD.Application\\TopLearnWithDDD.Application.csproj|d:\\toplearn\\toplearnwithddd\\toplearnwithddd.application\\commands\\user\\handlers\\deleteuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC630075-0B61-48C8-B061-4659B8EBF514}|TopLearnWithDDD.Application\\TopLearnWithDDD.Application.csproj|solutionrelative:toplearnwithddd.application\\commands\\user\\handlers\\deleteuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC630075-0B61-48C8-B061-4659B8EBF514}|TopLearnWithDDD.Application\\TopLearnWithDDD.Application.csproj|d:\\toplearn\\toplearnwithddd\\toplearnwithddd.application\\queries\\course\\getcoursebyphrase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC630075-0B61-48C8-B061-4659B8EBF514}|TopLearnWithDDD.Application\\TopLearnWithDDD.Application.csproj|solutionrelative:toplearnwithddd.application\\queries\\course\\getcoursebyphrase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC630075-0B61-48C8-B061-4659B8EBF514}|TopLearnWithDDD.Application\\TopLearnWithDDD.Application.csproj|d:\\toplearn\\toplearnwithddd\\toplearnwithddd.application\\commands\\user\\handlers\\updateuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC630075-0B61-48C8-B061-4659B8EBF514}|TopLearnWithDDD.Application\\TopLearnWithDDD.Application.csproj|solutionrelative:toplearnwithddd.application\\commands\\user\\handlers\\updateuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC630075-0B61-48C8-B061-4659B8EBF514}|TopLearnWithDDD.Application\\TopLearnWithDDD.Application.csproj|d:\\toplearn\\toplearnwithddd\\toplearnwithddd.application\\queries\\course\\getcoursebyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC630075-0B61-48C8-B061-4659B8EBF514}|TopLearnWithDDD.Application\\TopLearnWithDDD.Application.csproj|solutionrelative:toplearnwithddd.application\\queries\\course\\getcoursebyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC630075-0B61-48C8-B061-4659B8EBF514}|TopLearnWithDDD.Application\\TopLearnWithDDD.Application.csproj|d:\\toplearn\\toplearnwithddd\\toplearnwithddd.application\\commands\\user\\handlers\\createuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC630075-0B61-48C8-B061-4659B8EBF514}|TopLearnWithDDD.Application\\TopLearnWithDDD.Application.csproj|solutionrelative:toplearnwithddd.application\\commands\\user\\handlers\\createuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC630075-0B61-48C8-B061-4659B8EBF514}|TopLearnWithDDD.Application\\TopLearnWithDDD.Application.csproj|d:\\toplearn\\toplearnwithddd\\toplearnwithddd.application\\queries\\course\\getcourseslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC630075-0B61-48C8-B061-4659B8EBF514}|TopLearnWithDDD.Application\\TopLearnWithDDD.Application.csproj|solutionrelative:toplearnwithddd.application\\queries\\course\\getcourseslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC630075-0B61-48C8-B061-4659B8EBF514}|TopLearnWithDDD.Application\\TopLearnWithDDD.Application.csproj|d:\\toplearn\\toplearnwithddd\\toplearnwithddd.application\\queries\\user\\getuserbyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC630075-0B61-48C8-B061-4659B8EBF514}|TopLearnWithDDD.Application\\TopLearnWithDDD.Application.csproj|solutionrelative:toplearnwithddd.application\\queries\\user\\getuserbyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC630075-0B61-48C8-B061-4659B8EBF514}|TopLearnWithDDD.Application\\TopLearnWithDDD.Application.csproj|d:\\toplearn\\toplearnwithddd\\toplearnwithddd.application\\queries\\user\\getuserslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC630075-0B61-48C8-B061-4659B8EBF514}|TopLearnWithDDD.Application\\TopLearnWithDDD.Application.csproj|solutionrelative:toplearnwithddd.application\\queries\\user\\getuserslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,40 +43,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DeleteUserHandler.cs",
-              "DocumentMoniker": "D:\\TopLearn\\TopLearnWithDDD\\TopLearnWithDDD.Application\\Commands\\User\\Handlers\\DeleteUserHandler.cs",
-              "RelativeDocumentMoniker": "TopLearnWithDDD.Application\\Commands\\User\\Handlers\\DeleteUserHandler.cs",
-              "ToolTip": "D:\\TopLearn\\TopLearnWithDDD\\TopLearnWithDDD.Application\\Commands\\User\\Handlers\\DeleteUserHandler.cs",
-              "RelativeToolTip": "TopLearnWithDDD.Application\\Commands\\User\\Handlers\\DeleteUserHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Title": "GetCourseByPhrase.cs",
+              "DocumentMoniker": "D:\\TopLearn\\TopLearnWithDDD\\TopLearnWithDDD.Application\\Queries\\Course\\GetCourseByPhrase.cs",
+              "RelativeDocumentMoniker": "TopLearnWithDDD.Application\\Queries\\Course\\GetCourseByPhrase.cs",
+              "ToolTip": "D:\\TopLearn\\TopLearnWithDDD\\TopLearnWithDDD.Application\\Queries\\Course\\GetCourseByPhrase.cs",
+              "RelativeToolTip": "TopLearnWithDDD.Application\\Queries\\Course\\GetCourseByPhrase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-29T10:50:32.365Z",
+              "WhenOpened": "2026-05-29T11:30:27.754Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UpdateUserHandler.cs",
-              "DocumentMoniker": "D:\\TopLearn\\TopLearnWithDDD\\TopLearnWithDDD.Application\\Commands\\User\\Handlers\\UpdateUserHandler.cs",
-              "RelativeDocumentMoniker": "TopLearnWithDDD.Application\\Commands\\User\\Handlers\\UpdateUserHandler.cs",
-              "ToolTip": "D:\\TopLearn\\TopLearnWithDDD\\TopLearnWithDDD.Application\\Commands\\User\\Handlers\\UpdateUserHandler.cs",
-              "RelativeToolTip": "TopLearnWithDDD.Application\\Commands\\User\\Handlers\\UpdateUserHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Title": "GetCourseById.cs",
+              "DocumentMoniker": "D:\\TopLearn\\TopLearnWithDDD\\TopLearnWithDDD.Application\\Queries\\Course\\GetCourseById.cs",
+              "RelativeDocumentMoniker": "TopLearnWithDDD.Application\\Queries\\Course\\GetCourseById.cs",
+              "ToolTip": "D:\\TopLearn\\TopLearnWithDDD\\TopLearnWithDDD.Application\\Queries\\Course\\GetCourseById.cs",
+              "RelativeToolTip": "TopLearnWithDDD.Application\\Queries\\Course\\GetCourseById.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-29T10:50:05.078Z",
+              "WhenOpened": "2026-05-29T11:30:08.845Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CreateUserHandler.cs",
-              "DocumentMoniker": "D:\\TopLearn\\TopLearnWithDDD\\TopLearnWithDDD.Application\\Commands\\User\\Handlers\\CreateUserHandler.cs",
-              "RelativeDocumentMoniker": "TopLearnWithDDD.Application\\Commands\\User\\Handlers\\CreateUserHandler.cs",
-              "ToolTip": "D:\\TopLearn\\TopLearnWithDDD\\TopLearnWithDDD.Application\\Commands\\User\\Handlers\\CreateUserHandler.cs",
-              "RelativeToolTip": "TopLearnWithDDD.Application\\Commands\\User\\Handlers\\CreateUserHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Title": "GetCoursesList.cs",
+              "DocumentMoniker": "D:\\TopLearn\\TopLearnWithDDD\\TopLearnWithDDD.Application\\Queries\\Course\\GetCoursesList.cs",
+              "RelativeDocumentMoniker": "TopLearnWithDDD.Application\\Queries\\Course\\GetCoursesList.cs",
+              "ToolTip": "D:\\TopLearn\\TopLearnWithDDD\\TopLearnWithDDD.Application\\Queries\\Course\\GetCoursesList.cs",
+              "RelativeToolTip": "TopLearnWithDDD.Application\\Queries\\Course\\GetCoursesList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-29T10:49:36.898Z",
+              "WhenOpened": "2026-05-29T11:29:37.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetUserById.cs",
+              "DocumentMoniker": "D:\\TopLearn\\TopLearnWithDDD\\TopLearnWithDDD.Application\\Queries\\User\\GetUserById.cs",
+              "RelativeDocumentMoniker": "TopLearnWithDDD.Application\\Queries\\User\\GetUserById.cs",
+              "ToolTip": "D:\\TopLearn\\TopLearnWithDDD\\TopLearnWithDDD.Application\\Queries\\User\\GetUserById.cs",
+              "RelativeToolTip": "TopLearnWithDDD.Application\\Queries\\User\\GetUserById.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T11:29:21.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetUsersList.cs",
+              "DocumentMoniker": "D:\\TopLearn\\TopLearnWithDDD\\TopLearnWithDDD.Application\\Queries\\User\\GetUsersList.cs",
+              "RelativeDocumentMoniker": "TopLearnWithDDD.Application\\Queries\\User\\GetUsersList.cs",
+              "ToolTip": "D:\\TopLearn\\TopLearnWithDDD\\TopLearnWithDDD.Application\\Queries\\User\\GetUsersList.cs",
+              "RelativeToolTip": "TopLearnWithDDD.Application\\Queries\\User\\GetUsersList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T11:29:11.385Z",
               "EditorCaption": ""
             }
           ]
