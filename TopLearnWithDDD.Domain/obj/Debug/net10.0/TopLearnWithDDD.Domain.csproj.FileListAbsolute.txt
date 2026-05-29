@@ -13,3 +13,4 @@ D:\TopLearn\TopLearnWithDDD\TopLearnWithDDD.Domain\obj\Debug\net10.0\TopLearnWit
 D:\TopLearn\TopLearnWithDDD\TopLearnWithDDD.Domain\obj\Debug\net10.0\refint\TopLearnWithDDD.Domain.dll
 D:\TopLearn\TopLearnWithDDD\TopLearnWithDDD.Domain\obj\Debug\net10.0\TopLearnWithDDD.Domain.pdb
 D:\TopLearn\TopLearnWithDDD\TopLearnWithDDD.Domain\obj\Debug\net10.0\ref\TopLearnWithDDD.Domain.dll
+D:\TopLearn\TopLearnWithDDD\TopLearnWithDDD.Domain\obj\Debug\net10.0\TopLearnWithDDD.Domain.sourcelink.json

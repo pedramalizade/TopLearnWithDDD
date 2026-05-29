@@ -1,0 +1,12 @@
+D:\TopLearn\TopLearnWithDDD\TopLearnWithDDD.Application\bin\Debug\net10.0\TopLearnWithDDD.Application.deps.json
+D:\TopLearn\TopLearnWithDDD\TopLearnWithDDD.Application\bin\Debug\net10.0\TopLearnWithDDD.Application.dll
+D:\TopLearn\TopLearnWithDDD\TopLearnWithDDD.Application\bin\Debug\net10.0\TopLearnWithDDD.Application.pdb
+D:\TopLearn\TopLearnWithDDD\TopLearnWithDDD.Application\obj\Debug\net10.0\TopLearnWithDDD.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\TopLearn\TopLearnWithDDD\TopLearnWithDDD.Application\obj\Debug\net10.0\TopLearnWithDDD.Application.AssemblyInfoInputs.cache
+D:\TopLearn\TopLearnWithDDD\TopLearnWithDDD.Application\obj\Debug\net10.0\TopLearnWithDDD.Application.AssemblyInfo.cs
+D:\TopLearn\TopLearnWithDDD\TopLearnWithDDD.Application\obj\Debug\net10.0\TopLearnWithDDD.Application.csproj.CoreCompileInputs.cache
+D:\TopLearn\TopLearnWithDDD\TopLearnWithDDD.Application\obj\Debug\net10.0\TopLearnWithDDD.Application.sourcelink.json
+D:\TopLearn\TopLearnWithDDD\TopLearnWithDDD.Application\obj\Debug\net10.0\TopLearnWithDDD.Application.dll
+D:\TopLearn\TopLearnWithDDD\TopLearnWithDDD.Application\obj\Debug\net10.0\refint\TopLearnWithDDD.Application.dll
+D:\TopLearn\TopLearnWithDDD\TopLearnWithDDD.Application\obj\Debug\net10.0\TopLearnWithDDD.Application.pdb
+D:\TopLearn\TopLearnWithDDD\TopLearnWithDDD.Application\obj\Debug\net10.0\ref\TopLearnWithDDD.Application.dll

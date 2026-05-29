@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TopLearnWithDDD.Shared.Abstraction")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b44d1bcc5c74bb2728aeb23360368681b3f554a0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44041f55799768d3a72734bb31c0c4d591d805cd")]
 [assembly: System.Reflection.AssemblyProductAttribute("TopLearnWithDDD.Shared.Abstraction")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TopLearnWithDDD.Shared.Abstraction")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
