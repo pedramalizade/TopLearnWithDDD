@@ -7,8 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Commands\Couse\Handlers\" />
-    <Folder Include="Commands\User\Handlers\" />
     <Folder Include="DomainEvents\" />
     <Folder Include="Exceptions\" />
     <Folder Include="DTOs\" />
