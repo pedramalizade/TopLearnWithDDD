@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\TopLearn\\TopLearnWithDDD\\TopLearnWithDDD.Domain\\TopLearnWithDDD.Domain.csproj": {}
+    "P:\\TopLearnDDD\\TopLearnWithDDD.Domain\\TopLearnWithDDD.Domain.csproj": {}
   },
   "projects": {
-    "D:\\TopLearn\\TopLearnWithDDD\\TopLearnWithDDD.Domain\\TopLearnWithDDD.Domain.csproj": {
+    "P:\\TopLearnDDD\\TopLearnWithDDD.Domain\\TopLearnWithDDD.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TopLearn\\TopLearnWithDDD\\TopLearnWithDDD.Domain\\TopLearnWithDDD.Domain.csproj",
+        "projectUniqueName": "P:\\TopLearnDDD\\TopLearnWithDDD.Domain\\TopLearnWithDDD.Domain.csproj",
         "projectName": "TopLearnWithDDD.Domain",
-        "projectPath": "D:\\TopLearn\\TopLearnWithDDD\\TopLearnWithDDD.Domain\\TopLearnWithDDD.Domain.csproj",
-        "packagesPath": "C:\\Users\\ici\\.nuget\\packages\\",
-        "outputPath": "D:\\TopLearn\\TopLearnWithDDD\\TopLearnWithDDD.Domain\\obj\\",
+        "projectPath": "P:\\TopLearnDDD\\TopLearnWithDDD.Domain\\TopLearnWithDDD.Domain.csproj",
+        "packagesPath": "C:\\Users\\pedram\\.nuget\\packages\\",
+        "outputPath": "P:\\TopLearnDDD\\TopLearnWithDDD.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ici\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pedram\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://192.168.241.116:8082/repository/nuget-hosted/": {},
+          "http://192.168.231.20:8082/repository/nuget-hosted/": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -34,8 +34,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "D:\\TopLearn\\TopLearnWithDDD\\TopLearnWithDDD.Shared.Abstraction\\TopLearnWithDDD.Shared.Abstraction.csproj": {
-                "projectPath": "D:\\TopLearn\\TopLearnWithDDD\\TopLearnWithDDD.Shared.Abstraction\\TopLearnWithDDD.Shared.Abstraction.csproj"
+              "P:\\TopLearnDDD\\TopLearnWithDDD.Shared.Abstraction\\TopLearnWithDDD.Shared.Abstraction.csproj": {
+                "projectPath": "P:\\TopLearnDDD\\TopLearnWithDDD.Shared.Abstraction\\TopLearnWithDDD.Shared.Abstraction.csproj"
               }
             }
           }
@@ -50,7 +50,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.200"
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net10.0": {
@@ -72,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -350,20 +350,20 @@
         }
       }
     },
-    "D:\\TopLearn\\TopLearnWithDDD\\TopLearnWithDDD.Shared.Abstraction\\TopLearnWithDDD.Shared.Abstraction.csproj": {
+    "P:\\TopLearnDDD\\TopLearnWithDDD.Shared.Abstraction\\TopLearnWithDDD.Shared.Abstraction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TopLearn\\TopLearnWithDDD\\TopLearnWithDDD.Shared.Abstraction\\TopLearnWithDDD.Shared.Abstraction.csproj",
+        "projectUniqueName": "P:\\TopLearnDDD\\TopLearnWithDDD.Shared.Abstraction\\TopLearnWithDDD.Shared.Abstraction.csproj",
         "projectName": "TopLearnWithDDD.Shared.Abstraction",
-        "projectPath": "D:\\TopLearn\\TopLearnWithDDD\\TopLearnWithDDD.Shared.Abstraction\\TopLearnWithDDD.Shared.Abstraction.csproj",
-        "packagesPath": "C:\\Users\\ici\\.nuget\\packages\\",
-        "outputPath": "D:\\TopLearn\\TopLearnWithDDD\\TopLearnWithDDD.Shared.Abstraction\\obj\\",
+        "projectPath": "P:\\TopLearnDDD\\TopLearnWithDDD.Shared.Abstraction\\TopLearnWithDDD.Shared.Abstraction.csproj",
+        "packagesPath": "C:\\Users\\pedram\\.nuget\\packages\\",
+        "outputPath": "P:\\TopLearnDDD\\TopLearnWithDDD.Shared.Abstraction\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ici\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pedram\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -372,7 +372,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://192.168.241.116:8082/repository/nuget-hosted/": {},
+          "http://192.168.231.20:8082/repository/nuget-hosted/": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -392,7 +392,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.200"
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net10.0": {
@@ -414,7 +414,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
