@@ -3,8 +3,29 @@
   "WorkspaceRootPath": "P:\\TopLearnDDD\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{DC630075-0B61-48C8-B061-4659B8EBF514}|TopLearnWithDDD.Application\\TopLearnWithDDD.Application.csproj|p:\\toplearnddd\\toplearnwithddd.application\\commands\\couse\\createcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC630075-0B61-48C8-B061-4659B8EBF514}|TopLearnWithDDD.Application\\TopLearnWithDDD.Application.csproj|solutionrelative:toplearnwithddd.application\\commands\\couse\\createcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{DC630075-0B61-48C8-B061-4659B8EBF514}|TopLearnWithDDD.Application\\TopLearnWithDDD.Application.csproj|d:\\toplearn\\toplearnwithddd\\toplearnwithddd.application\\queries\\course\\getcoursebyphrase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC630075-0B61-48C8-B061-4659B8EBF514}|TopLearnWithDDD.Application\\TopLearnWithDDD.Application.csproj|solutionrelative:toplearnwithddd.application\\queries\\course\\getcoursebyphrase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC630075-0B61-48C8-B061-4659B8EBF514}|TopLearnWithDDD.Application\\TopLearnWithDDD.Application.csproj|d:\\toplearn\\toplearnwithddd\\toplearnwithddd.application\\queries\\course\\getcoursebyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC630075-0B61-48C8-B061-4659B8EBF514}|TopLearnWithDDD.Application\\TopLearnWithDDD.Application.csproj|solutionrelative:toplearnwithddd.application\\queries\\course\\getcoursebyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC630075-0B61-48C8-B061-4659B8EBF514}|TopLearnWithDDD.Application\\TopLearnWithDDD.Application.csproj|d:\\toplearn\\toplearnwithddd\\toplearnwithddd.application\\queries\\course\\getcourseslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC630075-0B61-48C8-B061-4659B8EBF514}|TopLearnWithDDD.Application\\TopLearnWithDDD.Application.csproj|solutionrelative:toplearnwithddd.application\\queries\\course\\getcourseslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC630075-0B61-48C8-B061-4659B8EBF514}|TopLearnWithDDD.Application\\TopLearnWithDDD.Application.csproj|d:\\toplearn\\toplearnwithddd\\toplearnwithddd.application\\queries\\user\\getuserbyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC630075-0B61-48C8-B061-4659B8EBF514}|TopLearnWithDDD.Application\\TopLearnWithDDD.Application.csproj|solutionrelative:toplearnwithddd.application\\queries\\user\\getuserbyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC630075-0B61-48C8-B061-4659B8EBF514}|TopLearnWithDDD.Application\\TopLearnWithDDD.Application.csproj|d:\\toplearn\\toplearnwithddd\\toplearnwithddd.application\\queries\\user\\getuserslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC630075-0B61-48C8-B061-4659B8EBF514}|TopLearnWithDDD.Application\\TopLearnWithDDD.Application.csproj|solutionrelative:toplearnwithddd.application\\queries\\user\\getuserslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> 414a4fb6da031254358d8531eb58a3b0903034d8
     }
   ],
   "DocumentGroupContainers": [
@@ -27,6 +48,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+<<<<<<< HEAD
               "Title": "CreateCourse.cs",
               "DocumentMoniker": "P:\\TopLearnDDD\\TopLearnWithDDD.Application\\Commands\\Couse\\CreateCourse.cs",
               "RelativeDocumentMoniker": "TopLearnWithDDD.Application\\Commands\\Couse\\CreateCourse.cs",
@@ -35,6 +57,68 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-11T11:56:36.055Z",
+=======
+              "Title": "GetCourseByPhrase.cs",
+              "DocumentMoniker": "D:\\TopLearn\\TopLearnWithDDD\\TopLearnWithDDD.Application\\Queries\\Course\\GetCourseByPhrase.cs",
+              "RelativeDocumentMoniker": "TopLearnWithDDD.Application\\Queries\\Course\\GetCourseByPhrase.cs",
+              "ToolTip": "D:\\TopLearn\\TopLearnWithDDD\\TopLearnWithDDD.Application\\Queries\\Course\\GetCourseByPhrase.cs",
+              "RelativeToolTip": "TopLearnWithDDD.Application\\Queries\\Course\\GetCourseByPhrase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T11:30:27.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetCourseById.cs",
+              "DocumentMoniker": "D:\\TopLearn\\TopLearnWithDDD\\TopLearnWithDDD.Application\\Queries\\Course\\GetCourseById.cs",
+              "RelativeDocumentMoniker": "TopLearnWithDDD.Application\\Queries\\Course\\GetCourseById.cs",
+              "ToolTip": "D:\\TopLearn\\TopLearnWithDDD\\TopLearnWithDDD.Application\\Queries\\Course\\GetCourseById.cs",
+              "RelativeToolTip": "TopLearnWithDDD.Application\\Queries\\Course\\GetCourseById.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T11:30:08.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetCoursesList.cs",
+              "DocumentMoniker": "D:\\TopLearn\\TopLearnWithDDD\\TopLearnWithDDD.Application\\Queries\\Course\\GetCoursesList.cs",
+              "RelativeDocumentMoniker": "TopLearnWithDDD.Application\\Queries\\Course\\GetCoursesList.cs",
+              "ToolTip": "D:\\TopLearn\\TopLearnWithDDD\\TopLearnWithDDD.Application\\Queries\\Course\\GetCoursesList.cs",
+              "RelativeToolTip": "TopLearnWithDDD.Application\\Queries\\Course\\GetCoursesList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T11:29:37.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetUserById.cs",
+              "DocumentMoniker": "D:\\TopLearn\\TopLearnWithDDD\\TopLearnWithDDD.Application\\Queries\\User\\GetUserById.cs",
+              "RelativeDocumentMoniker": "TopLearnWithDDD.Application\\Queries\\User\\GetUserById.cs",
+              "ToolTip": "D:\\TopLearn\\TopLearnWithDDD\\TopLearnWithDDD.Application\\Queries\\User\\GetUserById.cs",
+              "RelativeToolTip": "TopLearnWithDDD.Application\\Queries\\User\\GetUserById.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T11:29:21.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetUsersList.cs",
+              "DocumentMoniker": "D:\\TopLearn\\TopLearnWithDDD\\TopLearnWithDDD.Application\\Queries\\User\\GetUsersList.cs",
+              "RelativeDocumentMoniker": "TopLearnWithDDD.Application\\Queries\\User\\GetUsersList.cs",
+              "ToolTip": "D:\\TopLearn\\TopLearnWithDDD\\TopLearnWithDDD.Application\\Queries\\User\\GetUsersList.cs",
+              "RelativeToolTip": "TopLearnWithDDD.Application\\Queries\\User\\GetUsersList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T11:29:11.385Z",
+>>>>>>> 414a4fb6da031254358d8531eb58a3b0903034d8
               "EditorCaption": ""
             }
           ]
