@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TopLearnWithDDD.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44041f55799768d3a72734bb31c0c4d591d805cd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd89756dbf9c8b93b1ff8cc6457a277acd3b8b74")]
 [assembly: System.Reflection.AssemblyProductAttribute("TopLearnWithDDD.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TopLearnWithDDD.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
