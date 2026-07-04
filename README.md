@@ -37,9 +37,7 @@ The architecture is designed to encourage:
 - Testability
 - Scalability
 - Domain-centric business logic
-
 ---
-
 ## 🧩 Features
 
 ### 👤 User Management
