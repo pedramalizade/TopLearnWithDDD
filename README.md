@@ -116,11 +116,8 @@ Factories encapsulate object creation logic and ensure domain invariants are res
 
 ### Domain Exceptions
 Custom exceptions are used to enforce business rules and provide meaningful domain-specific feedback.
-
 ---
-
 ## 📂 Project Structure
-
 ```bash
 TopLearn
 │── Domain
