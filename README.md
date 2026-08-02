@@ -11,11 +11,8 @@ This project demonstrates how to design and implement a scalable, maintainable, 
 TopLearn is an online learning platform designed to simulate a real-world educational ecosystem where users can explore courses, watch lessons, manage payments, interact through comments and reviews, and securely authenticate into the system.
 
 The project focuses heavily on **software architecture**, **domain modeling**, and **maintainable backend design**, rather than just CRUD implementation.
-
 ---
-
 ## 🏛️ Architecture & Design Principles
-
 This project is built using enterprise-level architectural concepts:
 
 - **Domain-Driven Design (DDD)**
