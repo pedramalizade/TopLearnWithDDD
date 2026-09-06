@@ -92,9 +92,7 @@ The architecture is designed to encourage:
 
 ### Performance
 - Caching
-
 ---
-
 ## 🧠 Domain-Driven Design Concepts Used
 
 This project applies several DDD tactical patterns:
