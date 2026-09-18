@@ -36,43 +36,34 @@ The architecture is designed to encourage:
 - Domain-centric business logic
 ---
 ## 🧩 Features
-
 ### 👤 User Management
 - User registration and authentication
 - Role-based authorization
 - JWT authentication mechanism
 - Secure access management
-
 ### 🎓 Course Management
 - Course creation and management
 - Category-based organization
 - Video lesson support
 - Course-related interactions
-
 ### 💳 Payment Management
 - Payment handling system
 - Transaction processing workflow
 - Business-oriented payment logic
-
 ### 🔐 Authentication & Authorization
 - JWT-based authentication
 - Secure API endpoints
 - Authorization mechanisms
-
 ### 📝 Comments & Reviews
 - Course feedback system
 - User interaction and engagement
-
 ### 📚 Categories
 - Categorized learning experience
 - Organized course structure
-
 ### 🎥 Video Lessons
 - Video-based learning modules
 - Lesson management system
-
 ---
-
 ## ⚙️ Tech Stack
 
 ### Backend
