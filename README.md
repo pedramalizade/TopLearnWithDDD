@@ -28,7 +28,6 @@ This project is built using enterprise-level architectural concepts:
 - **Validation Pipeline using FluentValidation**
 
 The architecture is designed to encourage:
-
 - Separation of concerns
 - High maintainability
 - Testability
