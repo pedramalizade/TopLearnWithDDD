@@ -132,9 +132,7 @@ After running the project, navigate to:
 ```
 
 ---
-
 ## 🚀 Getting Started
-
 ### Prerequisites
 
 - .NET SDK
