@@ -3,9 +3,7 @@
 An enterprise-inspired educational platform built with modern software engineering principles using **ASP.NET Core**, **Domain-Driven Design (DDD)**, **CQRS**, and **Clean Architecture**.
 
 This project demonstrates how to design and implement a scalable, maintainable, and domain-centric application by applying real-world architectural patterns and best practices used in modern backend systems.
-
 ---
-
 ## 🚀 Overview
 
 TopLearn is an online learning platform designed to simulate a real-world educational ecosystem where users can explore courses, watch lessons, manage payments, interact through comments and reviews, and securely authenticate into the system.
