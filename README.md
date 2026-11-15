@@ -128,7 +128,6 @@ After running the project, navigate to:
 ```bash
 /swagger
 ```
-
 ---
 ## 🚀 Getting Started
 ### Prerequisites
